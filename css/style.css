@@ -813,7 +813,7 @@ input[type="range"]::-ms-thumb:hover {
     left: -10%;
   }
   100% {
-    width: 47%;
+    width: 39%;
     left: 0%;
   }
 }
@@ -841,8 +841,8 @@ input[type="range"]::-ms-thumb:hover {
     left: 110%;
   }
   100% {
-    width: 54%;
-    left: 47%;
+    width: 63%;
+    left: 39%;
   }
 }
 
